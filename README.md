@@ -49,6 +49,14 @@ The database contains score for each user, score = number of tasks completed * 5
 **Admin page:**
   The admin page contains list of all users and their corresponding score (score = number of tasks completed * 50).
   
+ **Test cases:**<br/>
+ 1. Successful login of existing user.<br/>
+ 2. Rejection message is trying to login with new email id.<br/>
+ 3. Successful signup.<br/>
+ 4. Check is deadends are working(task1 done more than 5 times, more than 4 hints used).<br/>
+ 5. Successful generation of report below the webpage in case of completion of all the tasks in the game.<br/>
+ 
+  
   
   
   
