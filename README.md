@@ -1,7 +1,7 @@
 # game-project-completed
 
 This is a basic puzzle / treasure hunt game for assessing soft skills of a user.<br />
-The theme of the puzle is colors.
+The theme of the puzzle is colors.
 
 **Technologies used:**
   1. Frontend: html, css, javascript, react js
