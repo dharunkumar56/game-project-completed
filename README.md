@@ -38,7 +38,8 @@ After completion of the game, an user softskills report will be generated.<br />
 The progess of each user will be stored in the database.<br />
 The database contains score for each user, score = number of tasks completed * 50.<br />
 
-**Deadends in game:**
+**Deadends in game:** <br />
+(Login again if deadend is reached) <br />
   1. If an user try and fail task1 for 5 times in a row, the game ends.
   2. If an user uses 4 or more hints, the game ends.
 
