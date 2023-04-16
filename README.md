@@ -4,8 +4,8 @@ This is a basic puzzle / trasure hunt game for assessing soft skills of a user.
 The theme of the puzle is colors.
 
 Technologies used:
-  Frontend: html, css, javascript, react js
-  Backend: node js, mongodb
+  1. Frontend: html, css, javascript, react js
+  2. Backend: node js, mongodb
   
  Soft skills assessed:
   1. Perseverance
@@ -17,9 +17,9 @@ Method of evaluation of soft skills:
 It is based on number of hints used
   1. Perseverance & Curiosity: If an user completes all the tasks, then 100%.
   2. Eye for detail & problem solving: 
-        if number of hints used > 2, then 60%
-        if number of hints used == 1, then 80%
-        if number of hints used == 0, then 100%
+        2.1 if number of hints used > 2, then 60%
+        2.2 if number of hints used == 1, then 80%
+        2.3 if number of hints used == 0, then 100%
 
   
 Login page:
