@@ -51,10 +51,11 @@ The database contains score for each user, score = number of tasks completed * 5
   
  **Test cases:**<br/>
  1. Successful login of existing user.<br/>
- 2. Rejection message is trying to login with new email id.<br/>
- 3. Successful signup.<br/>
- 4. Check is deadends are working(task1 done more than 5 times, more than 4 hints used).<br/>
+ 2. Rejection message on trying to login with new email ID which is not registered.<br/>
+ 3. Successful signup in case of new user.<br/>
+ 4. Check if deadends are working (task1 done more than 5 times, more than 4 hints used).<br/>
  5. Successful generation of report below the webpage in case of completion of all the tasks in the game.<br/>
+ 6. Successful login of admin.<br/>
  
   
   
