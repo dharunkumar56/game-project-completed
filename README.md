@@ -1,6 +1,6 @@
 # game-project-completed
 
-This is a basic puzzle / trasure hunt game for assessing soft skills of a user.<br />
+This is a basic puzzle / treasure hunt game for assessing soft skills of a user.<br />
 The theme of the puzle is colors.
 
 **Technologies used:**
