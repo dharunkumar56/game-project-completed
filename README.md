@@ -17,9 +17,9 @@ Method of evaluation of soft skills:
 It is based on number of hints used
   1. Perseverance & Curiosity: If an user completes all the tasks, then 100%.
   2. Eye for detail & problem solving: 
-        2.1 if number of hints used > 2, then 60%
-        2.2 if number of hints used == 1, then 80%
-        2.3 if number of hints used == 0, then 100%
+        2.1 if number of hints used > 2, then 60% <br />
+        4.2 if number of hints used == 1, then 80% <br />
+        5.3 if number of hints used == 0, then 100% <br />
 
   
 Login page:
