@@ -36,7 +36,7 @@ Task2: It is image round based on colors, if user answer these 2 question correc
 After completion of the game, an user softskills report will be generated.<br />
 
 The progess of each user will be stored in the database.<br />
-The databse contains score for each user, score = number of tasks completed * 50.<br />
+The database contains score for each user, score = number of tasks completed * 50.<br />
 
 **Deadends in game:**
   1. If an user try and fail task1 for 5 times in a row, the game ends.
