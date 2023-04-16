@@ -3,17 +3,17 @@
 This is a basic puzzle / trasure hunt game for assessing soft skills of a user.<br />
 The theme of the puzle is colors.
 
-Technologies used:
+**Technologies used:**
   1. Frontend: html, css, javascript, react js
   2. Backend: node js, mongodb
   
- Soft skills assessed:
+ **Soft skills assessed:**
   1. Perseverance
   2. Curiosity
   3. Eye for detail
   4. Problem Solving
 
-Method of evaluation of soft skills:<br />
+**Method of evaluation of soft skills:**<br />
 It is based on number of hints used<br />
   1. Perseverance & Curiosity: If an user completes all the tasks, then 100%.<br />
   2. Eye for detail & problem solving: <br />
@@ -22,7 +22,7 @@ It is based on number of hints used<br />
         5.3 if number of hints used == 0, then 100% <br />
 
   
-Login page:<br />
+**Login page:**<br />
   This is the initial landing page for the website.<br />
   It provides features for login (for an existing user) and sign up (for a new user).<br />
 
@@ -38,14 +38,14 @@ After completion of the game, an user softskills report will be generated.<br />
 The progess of each user will be stored in the database.<br />
 The databse contains score for each user, score = number of tasks completed * 50.<br />
 
-Deadends in game:
+**Deadends in game:**
   1. If an user try and fail task1 for 5 times in a row, the game ends.
   2. If an user uses 4 or more hints, the game ends.
 
-Solution:
+**Solution:**
   The task is to answer all the  question and without begin caught in any deadends.
   
-Admin page:
+**Admin page:**
   The admin page contains list of all users and their corresponding score (score = number of tasks completed * 50).
   
   
