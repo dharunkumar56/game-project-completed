@@ -1,5 +1,7 @@
 # game-project-completed
 
+**Important: Please wait for 15 to 30 seconds after clicking login in the home page. As the server is hosted with a free service, it is a bit slow**
+
 This is a basic puzzle / treasure hunt game for assessing soft skills of a user.<br />
 The theme of the puzzle is colors.
 
